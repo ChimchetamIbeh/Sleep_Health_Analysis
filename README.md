@@ -4,20 +4,20 @@ A data analysis project exploring the relationships between sleep patterns, life
 
 ---
 
+## 👩‍💻 Author
+
+**Chimchetam Christabel Ibeh**
+Data Analysis Portfolio | Tool: Excel | Year: 2026
+
+---
+
 ## 📂 View the File
 
 👉 [Click here to view the full analysis on Google Sheets](https://docs.google.com/spreadsheets/d/1_li2x0qsVHYQSbCh7UTS4PtMdJj0FLpKgu-aqWD_lno/edit?usp=sharing)
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## 👩‍💻 Author
-
-**Chimchetam Christabel Ibeh**
-Data Analysis Portfolio | Tool: Excel | Year: 2026
+![Dashboard](https://github.com/ChimchetamIbeh/Sleep_Health_Analysis/blob/c55c68846c764918a18c700af0c7bf3e64d48d41/Sleep%20Health%20%26%20Lifestyle%20Dashboard.png)
 
 ---
 
@@ -61,7 +61,7 @@ The workbook contains four sheets, each serving a distinct role in the analysis 
 
 ---
 
-## 🛠️ Feature Engineering (Working Sheet)
+## 🛠️ Methodology
 
 The following new columns were derived from the raw data to enable richer analysis:
 
@@ -84,13 +84,6 @@ The following new columns were derived from the raw data to enable richer analys
 | Respondents with Sleep Apnea | 78 (20.9%) |
 | Respondents with Insomnia | 77 (20.6%) |
 
-**BMI Distribution:**
-- Normal Weight: 216 (57.8%)
-- Overweight: 148 (39.6%)
-- Obese: 10 (2.7%)
-
-**Occupations covered:** Software Engineer, Doctor, Nurse, Teacher, Engineer, Accountant, Scientist, Lawyer, Sales Representative, Salesperson, Manager
-
 ---
 
 ## 📈 Analysis Highlights
@@ -102,15 +95,7 @@ The following new columns were derived from the raw data to enable richer analys
 
 ---
 
-## 🚀 How to Use
 
-1. Download the `.xlsx` file from this repository
-2. Open in **Microsoft Excel** (recommended) or Google Sheets
-3. Navigate between sheets using the tabs at the bottom:
-   - Start with `Sleep_Health_and_Lifestyle_data` for the raw data
-   - Go to `Working_sheet` for the enriched dataset
-   - Explore `Pivot_Tables` for summaries
-   - View the `Dashboard` for the visual overview
 
 ---
 
